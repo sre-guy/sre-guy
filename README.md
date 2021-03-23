@@ -17,5 +17,5 @@
 ![elsdk's Trophies](https://github-profile-trophy.vercel.app/?username=elsdk&theme=nord&column=7)
 </br>
 
-## How I spend my time
+## Where I spent my time last week
 ![elsdk's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elsdk)
