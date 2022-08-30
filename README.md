@@ -1,4 +1,4 @@
-# :wave: Hi, I'm elsdk!
+# :wave: Hi, I'm sre-guy!
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
@@ -6,16 +6,16 @@
 
 ### Github Status
 
-![elsdk's GitHub stats](https://github-readme-stats.vercel.app/api?username=elsdk&count_private=true&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sre-guy&count_private=true&show_icons=true&theme=radical)
 </br>
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elsdk&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sre-guy&langs_count=10)
 </br>
 
 ## Github Trophies
-![elsdk's Trophies](https://github-profile-trophy.vercel.app/?username=elsdk&theme=nord&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=sre-guy&theme=nord&column=7)
 </br>
 
 ## How I've spent my time so far
-![elsdk's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elsdk)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sre-guy)
