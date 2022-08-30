@@ -16,6 +16,3 @@
 ## Github Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=sre-guy&theme=nord&column=7)
 </br>
-
-## How I've spent my time so far
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sre-guy)
